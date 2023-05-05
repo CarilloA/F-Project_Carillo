@@ -6,8 +6,6 @@
 footer{
 	color: #04b5a0;
 	font-weight: bold;
-	position: absolute;
-	display: block;
 }
 
 /* >>>>> index.html CSS <<<<< */
@@ -582,7 +580,7 @@ hr{
 	border-color: white;
 	box-shadow: 10px 7px 14px 0 rgba(0, 0, 0, 0.5);
 	display: block;
-	position: relative;
+	position: absolute;
 }
 
 .sortReference a{
@@ -591,4 +589,10 @@ hr{
 
 .sortReference a:hover{
 	color: red;
+}
+
+#referenceFooter{
+	position: absolute;
+	bottom: -130%;
+	width: 100%;
 }
