@@ -6,6 +6,7 @@
 footer{
 	color: #04b5a0;
 	font-weight: bold;
+	position: absolute;
 }
 
 /* >>>>> index.html CSS <<<<< */
