@@ -590,6 +590,7 @@ hr{
 }
 
 .sortReference{
+	width: 100%;
 	line-height: 2;
 	color: #0b876c;
 }
