@@ -262,7 +262,7 @@ footer{
 	padding: 2px;
 	border: 1px solid black;
 	border-radius: 0 0 50px 50px;
-	width: 15%;
+	width: 14%;
 	background-color: gray;
 	color: white;
 	margin-left: 1.537%;
@@ -593,6 +593,6 @@ hr{
 
 #referenceFooter{
 	position: absolute;
-	bottom: -130%;
+	bottom: -170%;
 	width: 100%;
 }
